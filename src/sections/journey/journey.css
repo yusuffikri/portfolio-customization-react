@@ -1,0 +1,48 @@
+.journey__container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem 4rem;
+}
+
+.card.journey {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.journey__icon {
+  background: var(--color-primary);
+  padding: 0.6rem;
+  border-radius: var(--border-radius-3);
+  font-size: 1.5rem;
+  color: var(--color-white);
+  transition: var(--transition);
+}
+
+.journey:hover .journey__icon {
+  background: var(--color-light);
+  color: var(--color-primary);
+}
+
+.journey h4 {
+  margin-bottom: 0.7rem;
+}
+
+/* Media Queries Tablet */
+
+@media screen and (max-width: 1024px) {
+  .journey__container {
+    gap: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .journey__container {
+    grid-template-columns: 1fr;
+    gap: 1.2rem;
+  }
+
+  .card.journey {
+    gap: 1.2rem;
+  }
+}
