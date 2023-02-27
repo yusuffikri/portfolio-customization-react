@@ -29,7 +29,7 @@ const data = [
     category: "frontend",
     image: Image3,
     title: "Personal Portfolio Vol.2",
-    desc: "Create a simple Personal Portfolio for personal use using React JS.",
+    desc: "Create a simple Personal Portfolio for personal branding use using React JS.",
     demo: "https://portfolio-react-vol2.netlify.app/",
     github: "https://github.com/yusuffikri/portfolio-react-js",
   },
