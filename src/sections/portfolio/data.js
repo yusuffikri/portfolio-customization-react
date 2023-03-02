@@ -38,7 +38,7 @@ const data = [
     category: "Mini Apps",
     image: Image4,
     title: "Calculator Apps",
-    desc: "Create a Calculator Apps for my mini project learning, using HTML, CSS and Javascript",
+    desc: "Create a Calculator Apps for mini project learning, using HTML, CSS and Javascript",
     demo: "https://calculator-demos.netlify.app/",
     github: "https://github.com/yusuffikri/calculator",
   },
