@@ -17,7 +17,7 @@ const data = [
     desc: "I'm was at Student Assosiation  of Computer Engineering for 2 years, meeting new people and making new contacts is fun.",
   },
   { 
-    id: 4, icon: <GiTeacher />, title: "Ibnul Qayyim Islamic School Makassar", desc: "Currently I'm working at Ibnul Qayyim Islamic School Makassar as Programming Teacher, since October 2022 until now." 
+    id: 4, icon: <GiTeacher />, title: "Ibnul Qayyim Islamic School Makassar", desc: "I'm was worked at Ibnul Qayyim Islamic School Makassar as Programming Teacher, since October 2022 until March 2023." 
   },
 ];
 
