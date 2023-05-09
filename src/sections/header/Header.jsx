@@ -17,7 +17,7 @@ const Header = () => {
         </div>
         <h3 data-aos="fade-up">Yusuf Fikri Mustanir</h3>
         <p data-aos="fade-up">
-          Learning about programming is always been my passion. I'm new at programming but I'm learning everyday, and I'm always motivated to do more! Now I'm working at Ibnul Qayyim Islamic School Makassar as Programming Teacher.
+          Learning about programming is always been my passion. I'm new at programming but I'm learning everyday, and I'm always motivated to do more!
         </p>
         <div className="header__cta" data-aos="fade-up">
           <a href="#contact" className="btn primary">
