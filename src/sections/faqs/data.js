@@ -3,7 +3,7 @@ const data = [
     id: 1,
     question: "What purpose of this page?",
     answer:
-      "Well, this page is inspired by Lukman Afandi the man who inspired me to make this website, and maybe you should check his website too. Main purpose of this page is to tell what i'm doing right now. If you have your own site, you should to make one too.",
+      "Well, this page is inspired by <a className='' href='http://codevector.me/'>Lukman Afandi <a/>the man who inspired me to make this website, and maybe you should check his website too. Main purpose of this page is to tell what i'm doing right now. If you have your own site, you should to make one too. ",
   },
   {
     id: 2,
