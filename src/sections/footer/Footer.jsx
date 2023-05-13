@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className="footer__copyright">
         <small>
-          Created with <AiFillHeart /> by Yusuf Fikri &copy; 2022 All Rights Reserved
+          Created with <AiFillHeart /> by Yusuf Fikri &copy; 2023 All Rights Reserved
         </small>
       </div>
     </footer>
